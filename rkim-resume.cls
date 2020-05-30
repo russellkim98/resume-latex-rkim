@@ -39,8 +39,8 @@
 \RequirePackage[strict]{changepage}
 \geometry{
   a4paper,
-  top=2cm,
-  bottom=2cm,
+  top=1.8cm,
+  bottom=1.3cm,
   left=4.5cm,
   right=1.5cm,
   includefoot,

@@ -1,0 +1,5 @@
+[0] Config.pm:304> INFO - This is Biber 2.12
+[0] Config.pm:307> INFO - Logfile is 'resume_russell_kim.blg'
+[34] biber-darwin:315> INFO - === Tue May 26, 2020, 22:44:45
+[54] Biber.pm:371> INFO - Reading 'resume_russell_kim.bcf'
+[133] Utils.pm:193> WARN - No data sources defined!
